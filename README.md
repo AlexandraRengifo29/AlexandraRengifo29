@@ -20,6 +20,7 @@ Skills
 
 Java |JavaScript | HTML5 | CSS3 | Databases | Spring Frameworks.
 
+
 Certifications
 
 DS4A/COLOMBIA Fundamentos en Anallítica de datos con honores.
