@@ -16,6 +16,7 @@ Junior web developer | Java | Professional Cloud Architect | GCPI | Data analyti
 
 ⚡ Good English skills.
 
+
 Skills
 
 Java |JavaScript | HTML5 | CSS3 | Databases | Spring Frameworks.
